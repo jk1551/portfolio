@@ -4,7 +4,7 @@ const projects = [
       description: 'React, Tailwind',
       imageSrc: 'https://images.pexels.com/photos/91224/pexels-photo-91224.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       imageAlt: 'alternative',
-      href: '#',
+      href: 'https://github.com/jk1551/portfolio',
     },
     {
       name: 'Golf Website',
@@ -18,7 +18,7 @@ const projects = [
       description: 'React, Tailwind, Axios',
       imageSrc: 'https://images.pexels.com/photos/326576/pexels-photo-326576.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
       imageAlt: 'Project',
-      href: '#',
+      href: 'https://github.com/jk1551/Contact-Card',
     }
   ]
 
