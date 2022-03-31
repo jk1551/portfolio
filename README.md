@@ -1,6 +1,8 @@
-# Personal Portfolio
+# Joe King
 
-This portfolio was build with React and Tailwind Components. 
+Hi I'm Joe King! I put together this portfolio to showcase my skills and intersts as a developer.
+
+!(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/javascript_1.png]
 
 #### Installation
 
