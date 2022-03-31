@@ -15,8 +15,11 @@ Hi I'm Joe King! I'm an aspiring software developer near Austin Texas. I love we
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" alt="CSS/SCSS" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" alt="React" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 #### Installation
